@@ -131,21 +131,6 @@ fun_fact: Passionate about solving accessibility & real-world problems with AI! 
 - 📜 **Microsoft Azure AI Essentials**: Workloads and Machine Learning on Azure
 - 📜 **Career Essentials in Generative AI**: Microsoft & LinkedIn
 
----
-
-### 📈 GitHub Analytics & Activity
-
-<div align="center">
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Tanisharma122&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F0FF&icon_color=00F0FF&text_color=9EFFFF" alt="Tanisha's GitHub Stats" height="155"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanisharma122&theme=tokyonight&hide_border=true&stroke=00F0FF&ring=00F0FF&fire=00F0FF&currStreakNum=00F0FF" alt="Tanisha's GitHub Streak" height="155"/>
-  </p>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanisharma122&layout=compact&theme=tokyonight&hide_border=true&title_color=00F0FF&text_color=9EFFFF" alt="Top Languages" height="145"/>
-  </p>
-</div>
-
----
 
 <div align="center">
   <p><i>"Turning computer vision & AI research into impactful real-world applications."</i></p>
